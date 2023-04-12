@@ -1,7 +1,7 @@
 # CIPS Issues
 
-模版来源于 [TUNA](https://github.com/tuna/)
-Template sourced from [TUNA](https://github.com/tuna/)
+模版来源于 [TUNA](https://github.com/tuna/) / Template sourced from [TUNA](https://github.com/tuna/) 
+
 
 [点此提交 Issue](https://github.com/NYIST-CIPS/issues/issues/new/choose)
 
