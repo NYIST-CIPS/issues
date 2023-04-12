@@ -1,5 +1,5 @@
 name: Bug report / 故障报告
-description: Report a bug you found when using TUNA mirrors / 报告在使用 TUNA 镜像站时出现的 bug
+description: Report a bug you found when using TUNA mirrors / 报告在使用 CIPS 镜像站时出现的 bug
 labels: ["Service Issue"]
 body:
   - type: markdown
@@ -14,8 +14,8 @@ body:
       label: 先决条件 (Prerequisites)
       options:
         - label: |
-            我已确认这个问题没有在[其他 issues](https://github.com/tuna/issues/issues)中提出过。
-            I am sure that this problem has NEVER been discussed in [other issues](https://github.com/tuna/issues/issues).
+            我已确认这个问题没有在[其他 issues](https://github.com/NYIST-CIPS/issues/issues)中提出过。
+            I am sure that this problem has NEVER been discussed in [other issues](https://github.com/NYIST-CIPS/issues/issues).
           required: true
   - type: textarea
     id: what_happened
